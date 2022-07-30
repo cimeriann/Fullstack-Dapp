@@ -8,7 +8,7 @@ This smart contract was deployed on ropsten's testnet and it consists of:
 * Make sure you have some test ether on your ropsten account which should be used to deploy the smart contract.
 * You can request some [here](https://faucet.egorfine.com/).
 * Install a http server, `lite server` was used. 
-* run `npm install -g lite-server` #install lite-server globally
+* run `npm install -g lite-server` to install lite-server globally
 
 
 ## Front end
