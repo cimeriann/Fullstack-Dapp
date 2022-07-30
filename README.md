@@ -12,6 +12,6 @@ This smart contract was deployed on ropsten's testnet and it consists of:
 
 
 ## Front end
-* simply run `lite-server` in your terminal or command prompt from the directory that has the index.html file in it.
+* simply run `lite-server` in your terminal or command prompt from the directory that has the *index.html* file in it.
 * Go [here](http://127.0.0.1:3000/) in your browser to see your page.
 
