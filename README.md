@@ -1,4 +1,4 @@
-# ERC-20-Basics
+# Fullstack Dapp basics
 This smart contract was deployed on ropsten's testnet and it consists of:
 * A basic smart contract
 * A simple front end page with buttons that can be used to call the functions in the smart contract.
